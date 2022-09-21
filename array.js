@@ -13,3 +13,7 @@ console.log(ages)
 //This would add new elements to the end of the array, but I don't have any to add so it won't do anything
 inDenver.push()
 console.log(inDenver)
+//This will call the second index position from the people array (Brandon)
+console.log(people[1])
+//This will call the third index position from the ages array (65)
+console.log(ages[2])
